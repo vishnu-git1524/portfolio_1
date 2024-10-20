@@ -1,5 +1,5 @@
 const header = {
-  homepage: '',
+  homepage: 'https://bharadwaj-portfolio.vercel.app/',
   title: 'K.S.M BHARADWAJ',
 }
 
